@@ -1,7 +1,6 @@
 name: Build shelly4ha
 on:
-  workflow_dispatch:
-    
+  create:  
 jobs:
   build-linux:
     runs-on: ubuntu-latest
