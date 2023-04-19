@@ -1,10 +1,15 @@
 # Shelly smart home platform for Home Assistant
 
-This release is a clone of ShellyForHass but install it to the domain shelly4hass instead of the shelly domain.
+## Note, special release of ShellyForHass
+<b>
+This release is a clone of ShellyForHass but install it to the domain shelly4ha instead of the shelly domain.
 
 This will allow you to run this integration at the same time as the integrated Shelly integration.
 
 You need to add this repository to HACS to install it; https://github.com/StyraHem/shelly4ha
+</b>
+
+## Status and info
 
 [![founder-wip](https://img.shields.io/badge/founder-Håkan_Åkerberg@StyraHem.se-green.svg?style=for-the-badge)](https://www.styrahem.se)
 [![buy me a coffee](https://img.shields.io/badge/If%20you%20like%20it-Buy%20us%20a%20coffee-green.svg?style=for-the-badge)](https://www.buymeacoffee.com/styrahem)
