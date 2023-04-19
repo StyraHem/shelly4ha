@@ -1,4 +1,4 @@
-name: Build ShellyForHA
+name: Build shelly4ha
 on:
   workflow_dispatch:
     
