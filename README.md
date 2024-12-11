@@ -15,12 +15,12 @@ You need to add this repository to HACS to install it; https://github.com/StyraH
 [![buy me a coffee](https://img.shields.io/badge/If%20you%20like%20it-Buy%20us%20a%20coffee-green.svg?style=for-the-badge)](https://www.buymeacoffee.com/styrahem)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg?style=for-the-badge)](https://github.com/hacs/integration)
-![Github All Releases](https://img.shields.io/github/downloads/styrahem/shellyforhass/total.svg?label=Total%20downloads&style=for-the-badge&color=yellow)
-![GitHub release (beta)](https://img.shields.io/github/v/release/StyraHem/ShellyForHass?label=Latest%20beta&style=for-the-badge&include_prereleases&color=lightgray)
+![Github All Releases](https://img.shields.io/github/downloads/styrahem/shelly4ha/total.svg?label=Total%20downloads&style=for-the-badge&color=yellow)
+![GitHub release (beta)](https://img.shields.io/github/v/release/StyraHem/shelly4ha?label=Latest%20beta&style=for-the-badge&include_prereleases&color=lightgray)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/StyraHem/ShellyForHass?label=Latest%20release&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/StyraHem/shelly4ha?label=Latest%20release&style=for-the-badge)
 ![stability-wip](https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge&color=blue)
-![GitHub Releases](https://img.shields.io/github/downloads/StyraHem/ShellyForHass/latest/total?label=Downloads&style=for-the-badge&color=blue)
+![GitHub Releases](https://img.shields.io/github/downloads/StyraHem/shelly4ha/latest/total?label=Downloads&style=for-the-badge&color=blue)
 
 ## Join Facebook group:
 This Facebook group are used to announce new releases etc. Please join it to be updated of new releases.
